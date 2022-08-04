@@ -8,6 +8,8 @@ The idea behind this project is to provide the base network foundations to inter
 | Microsoft Azure       | 172.25.0.0/16  |
 | Google Cloud Platform | 172.26.0.0/16  |
 
+_Please note this repository is under development and subject to change._
+
 ## Getting Started
 
 1. Update the `src/main.tf` file with your Terraform Cloud organization and workspace information.
